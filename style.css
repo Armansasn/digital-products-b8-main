@@ -32,3 +32,33 @@ header{
     align-items: center;
     background-image: url("background.png"),linear-gradient(45deg,rgb(42, 38, 38),black);
 }
+.demo1{
+    text-align: center;
+}
+.aboutus{
+    padding: 5px;
+    font-size: 50px;
+    padding-top: 20px;
+    border-bottom: 5px solid red;
+    display: inline-block;
+}
+    
+
+.aboutussection{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50vh;
+}
+.demo{
+    font-size: 40px;
+}
+.servicesection{
+    display: flex;
+    height: 60vh;
+    justify-content: space-around;
+    align-items: center;
+}
+.digital{
+    
+}
