@@ -52,6 +52,7 @@ header{
 }
 .servicesection{
     background-color: rgb(43, 41, 41);
+    height: 80vh;
 }
 .function{
     display: flex;
@@ -67,4 +68,18 @@ header{
     border-radius: 50px;
     text-align: center;
     color: white;
+}
+.lastsection{
+    display: flex;
+    align-items: center;
+    height: 30vh;
+    justify-content: space-around;
+    
+}
+li{
+    list-style-type: none;
+    color: white;
+}
+.last{
+    background-color: black;
 }
