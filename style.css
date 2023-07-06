@@ -23,5 +23,12 @@ header{
 .menus{
     display: flex;
    
-       
+}
+.banner{
+    height: 80vh;
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid black;
+    align-items: center;
+    background-image: url("background.png"),linear-gradient(45deg,rgb(42, 38, 38),black);
 }
