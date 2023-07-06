@@ -39,7 +39,7 @@ header{
     padding: 5px;
     font-size: 50px;
     padding-top: 20px;
-    border-bottom: 5px solid red;
+    border-bottom: 3px solid red;
     display: inline-block;
 }
     
@@ -50,15 +50,21 @@ header{
     align-items: center;
     height: 50vh;
 }
-.demo{
-    font-size: 40px;
-}
 .servicesection{
+    background-color: rgb(43, 41, 41);
+}
+.function{
     display: flex;
-    height: 60vh;
     justify-content: space-around;
     align-items: center;
 }
-.digital{
-    
+
+.function1{
+    width: 270px;
+    height: 320px;
+    background-color: black;
+    box-shadow: 4px 4px 15px gray;
+    border-radius: 50px;
+    text-align: center;
+    color: white;
 }
