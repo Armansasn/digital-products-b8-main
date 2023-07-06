@@ -2,6 +2,26 @@
     margin: 0;
     padding: 0;
 }
-nav{
+header{
     background-color: black;
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top:15px ;
+}
+.logos{
+    width: 20px;
+}
+.licolor{
+    color: white;
+    list-style: none;
+    font-size: 20px;
+    margin-right: 25px; ;
+}
+.menus{
+    display: flex;
+   
+       
 }
